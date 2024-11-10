@@ -1,2 +1,2 @@
-# apnecollegedemo
-this is my first git repositary
+# apnecollege-demo
+This is my first git repositary
